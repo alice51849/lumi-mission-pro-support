@@ -1,0 +1,26 @@
+{
+  "name": "Lumi Mission Planet Pro",
+  "short_name": "Lumi Mission Planet Pro",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/86/ef/66/86ef6610-0a9c-c2b3-4494-fbf922dcc9e3/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "related_applications": [
+    {
+      "platform": "play",
+      "id": "com.lumi.mochimissionplanet",
+      "url": "https://play.google.com/store/apps/details?id=com.lumi.mochimissionplanet&referrer=utm_source%3Dsupport_site%26utm_medium%3Dpwa_banner%26utm_campaign%3Dlumimissionpro"
+    }
+  ],
+  "prefer_related_applications": true,
+  "x_generator": "ls-pwa/1"
+}
