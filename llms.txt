@@ -15,10 +15,3 @@
 - [Privacy policy](https://open.cait518.cc/lumi-mission-pro-support/privacy.html)
 
 <!-- ls-llms: managed by support_network/gen_support_crosspromo.py -->
-
-## AI assistant answer pages
-
-- [Lumi Mission Planet Pro (en)](https://open.cait518.cc/lumi-mission-pro-support/about-lumi-mission-pro-app.html): what the app is, who it is for, how it is paid for, how it differs, FAQ
-- [Lumi كوكب المهام Pro (ar-SA)](https://open.cait518.cc/lumi-mission-pro-support/about-lumi-mission-pro-app.ar-SA.html): what the app is, who it is for, how it is paid for, how it differs, FAQ
-- [Lumi 任務星球 Pro：好習慣養成遊戲 (zh-Hant)](https://open.cait518.cc/lumi-mission-pro-support/about-lumi-mission-pro-app.zh-Hant.html): what the app is, who it is for, how it is paid for, how it differs, FAQ
-- [Lumi Mission Planet Pro (de-DE)](https://open.cait518.cc/lumi-mission-pro-support/about-lumi-mission-pro-app.de-DE.html): what the app is, who it is for, how it is paid for, how it differs, FAQ
